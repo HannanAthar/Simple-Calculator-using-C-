@@ -1,0 +1,11 @@
+D:\2 Semester\Object Oriented Programming\New folder (3)\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+D:\2 Semester\Object Oriented Programming\New folder (3)\Simple Calculator\bin\Debug\Simple Calculator.exe
+D:\2 Semester\Object Oriented Programming\New folder (3)\Simple Calculator\bin\Debug\Simple Calculator.pdb
+D:\2 Semester\Object Oriented Programming\New folder (3)\Simple Calculator\obj\Debug\Simple Calculator.csproj.AssemblyReference.cache
+D:\2 Semester\Object Oriented Programming\New folder (3)\Simple Calculator\obj\Debug\Simple Calculator.csproj.SuggestedBindingRedirects.cache
+D:\2 Semester\Object Oriented Programming\New folder (3)\Simple Calculator\obj\Debug\Simple_Calculator.Form1.resources
+D:\2 Semester\Object Oriented Programming\New folder (3)\Simple Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+D:\2 Semester\Object Oriented Programming\New folder (3)\Simple Calculator\obj\Debug\Simple Calculator.csproj.GenerateResource.cache
+D:\2 Semester\Object Oriented Programming\New folder (3)\Simple Calculator\obj\Debug\Simple Calculator.csproj.CoreCompileInputs.cache
+D:\2 Semester\Object Oriented Programming\New folder (3)\Simple Calculator\obj\Debug\Simple Calculator.exe
+D:\2 Semester\Object Oriented Programming\New folder (3)\Simple Calculator\obj\Debug\Simple Calculator.pdb
